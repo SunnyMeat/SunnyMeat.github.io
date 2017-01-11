@@ -1,4 +1,7 @@
 h1{
-color: brown;	
+  color: brown;	
 }
-h2{color:red
+h2{
+  color: red;
+  position: center;
+}
